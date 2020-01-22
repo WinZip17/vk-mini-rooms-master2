@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02295718ba029d823b76f89ca6a3ba4e",
+    "revision": "20b17624711a413d77deca12abd709f4",
     "url": "/vk-mini-rooms-master2/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-mini-rooms-master2/static/css/2.4e89ce74.chunk.css"
   },
   {
-    "revision": "be2616909b81652dcdee",
+    "revision": "77687a814bb549895614",
     "url": "/vk-mini-rooms-master2/static/css/main.7afdc276.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-mini-rooms-master2/static/js/2.168f4234.chunk.js"
   },
   {
-    "revision": "be2616909b81652dcdee",
-    "url": "/vk-mini-rooms-master2/static/js/main.3c5f5844.chunk.js"
+    "revision": "77687a814bb549895614",
+    "url": "/vk-mini-rooms-master2/static/js/main.e90f3ee6.chunk.js"
   },
   {
     "revision": "85efa2dbd35b63a6a03b",
